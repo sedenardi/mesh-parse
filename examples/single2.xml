@@ -1,0 +1,475 @@
+  <DescriptorRecord DescriptorClass="1">
+    <DescriptorUI>D015412</DescriptorUI>
+    <DescriptorName>
+      <String>Mastectomy, Segmental</String>
+    </DescriptorName>
+    <DateCreated>
+      <Year>1988</Year>
+      <Month>06</Month>
+      <Day>07</Day>
+    </DateCreated>
+    <DateRevised>
+      <Year>2016</Year>
+      <Month>05</Month>
+      <Day>31</Day>
+    </DateRevised>
+    <DateEstablished>
+      <Year>1989</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateEstablished>
+    <AllowableQualifiersList>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000009</QualifierUI>
+          <QualifierName>
+            <String>adverse effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000145</QualifierUI>
+          <QualifierName>
+            <String>classification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000191</QualifierUI>
+          <QualifierName>
+            <String>economics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>EC</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000193</QualifierUI>
+          <QualifierName>
+            <String>education</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ED</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000266</QualifierUI>
+          <QualifierName>
+            <String>history</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>HI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000295</QualifierUI>
+          <QualifierName>
+            <String>instrumentation</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IS</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000331</QualifierUI>
+          <QualifierName>
+            <String>legislation &amp; jurisprudence</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>LJ</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000379</QualifierUI>
+          <QualifierName>
+            <String>methods</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>MT</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000401</QualifierUI>
+          <QualifierName>
+            <String>mortality</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>MO</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000451</QualifierUI>
+          <QualifierName>
+            <String>nursing</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>NU</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000523</QualifierUI>
+          <QualifierName>
+            <String>psychology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PX</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000534</QualifierUI>
+          <QualifierName>
+            <String>rehabilitation</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>RH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000592</QualifierUI>
+          <QualifierName>
+            <String>standards</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ST</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000639</QualifierUI>
+          <QualifierName>
+            <String>trends</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000656</QualifierUI>
+          <QualifierName>
+            <String>utilization</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>UT</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000662</QualifierUI>
+          <QualifierName>
+            <String>veterinary</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>VE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000706</QualifierUI>
+          <QualifierName>
+            <String>statistics &amp; numerical data</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SN</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000941</QualifierUI>
+          <QualifierName>
+            <String>ethics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ES</Abbreviation>
+      </AllowableQualifier>
+    </AllowableQualifiersList>
+    <HistoryNote>89
+    </HistoryNote>
+    <PublicMeSHNote>89
+    </PublicMeSHNote>
+    <PreviousIndexingList>
+      <PreviousIndexing>Breast Neoplasms/surgery (1966-1988)</PreviousIndexing>
+      <PreviousIndexing>Breast/surgery (1966-1988)</PreviousIndexing>
+      <PreviousIndexing>Mastectomy (1966-1988)</PreviousIndexing>
+    </PreviousIndexingList>
+    <TreeNumberList>
+      <TreeNumber>E04.466.701</TreeNumber>
+    </TreeNumberList>
+    <ConceptList>
+      <Concept PreferredConceptYN="Y">
+        <ConceptUI>M0023749</ConceptUI>
+        <ConceptName>
+          <String>Mastectomy, Segmental</String>
+        </ConceptName>
+        <ScopeNote>Removal of only enough breast tissue to ensure that the margins of the resected surgical specimen are free of tumor.
+        </ScopeNote>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023749</Concept1UI>
+            <Concept2UI>M0393768</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="Y">
+            <TermUI>T045469</TermUI>
+            <String>Mastectomy, Segmental</String>
+            <DateCreated>
+              <Year>1999</Year>
+              <Month>01</Month>
+              <Day>01</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1989)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Mastectomies, Segmental</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Segmental Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Segmental Mastectomy</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Local Excision Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Local Excision Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Mastectomies, Local Excision</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Mastectomy, Local Excision</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045471</TermUI>
+            <String>Segmentectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045471</TermUI>
+            <String>Segmentectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Partial Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Mastectomies, Partial</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Mastectomy, Partial</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Partial Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Limited Resection Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Limited Resection Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Mastectomies, Limited Resection</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Mastectomy, Limited Resection</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045468</TermUI>
+            <String>Lumpectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045468</TermUI>
+            <String>Lumpectomies</String>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0393768</ConceptUI>
+        <ConceptName>
+          <String>Breast-Conserving Surgery</String>
+        </ConceptName>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023749</Concept1UI>
+            <Concept2UI>M0393768</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045473</TermUI>
+            <String>Breast-Conserving Surgery</String>
+            <DateCreated>
+              <Year>1998</Year>
+              <Month>02</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <EntryVersion>BREAST CONSERVING SURG</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1999)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045473</TermUI>
+            <String>Breast Conserving Surgery</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Breast Quadrantectomy</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>04</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Breast Quadrantectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Quadrantectomies, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Quadrantectomy, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgery, Breast-Conserving</String>
+            <DateCreated>
+              <Year>1998</Year>
+              <Month>03</Month>
+              <Day>30</Day>
+            </DateCreated>
+            <EntryVersion>SURG BREAST CONSERVING</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1999)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Breast-Conserving Surgeries</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgeries, Breast-Conserving</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgery, Breast Conserving</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Breast Conservation Therapy</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Breast Conservation Therapies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Conservation Therapies, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Conservation Therapy, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast-Sparing Surgery</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>04</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast Sparing Surgery</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast-Sparing Surgeries</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Surgeries, Breast-Sparing</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Surgery, Breast-Sparing</String>
+          </Term>
+        </TermList>
+      </Concept>
+    </ConceptList>
+  </DescriptorRecord>

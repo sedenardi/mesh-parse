@@ -1,0 +1,2037 @@
+<?xml version="1.0"?>
+<!DOCTYPE DescriptorRecordSet SYSTEM "https://www.nlm.nih.gov/databases/dtd/nlmdescriptorrecordset_20180101.dtd">
+<DescriptorRecordSet LanguageCode="eng">
+  <DescriptorRecord DescriptorClass="1">
+    <DescriptorUI>D005344</DescriptorUI>
+    <DescriptorName>
+      <String>Fibrinopeptide A</String>
+    </DescriptorName>
+    <DateCreated>
+      <Year>1975</Year>
+      <Month>07</Month>
+      <Day>25</Day>
+    </DateCreated>
+    <DateRevised>
+      <Year>2016</Year>
+      <Month>06</Month>
+      <Day>28</Day>
+    </DateRevised>
+    <DateEstablished>
+      <Year>1991</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateEstablished>
+    <AllowableQualifiersList>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000302</QualifierUI>
+          <QualifierName>
+            <String>isolation &amp; purification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IP</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000276</QualifierUI>
+          <QualifierName>
+            <String>immunology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IM</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000493</QualifierUI>
+          <QualifierName>
+            <String>pharmacokinetics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PK</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000096</QualifierUI>
+          <QualifierName>
+            <String>biosynthesis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>BI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000502</QualifierUI>
+          <QualifierName>
+            <String>physiology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000627</QualifierUI>
+          <QualifierName>
+            <String>therapeutic use</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TU</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000557</QualifierUI>
+          <QualifierName>
+            <String>secretion</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000819</QualifierUI>
+          <QualifierName>
+            <String>agonists</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AG</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000134</QualifierUI>
+          <QualifierName>
+            <String>cerebrospinal fluid</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CF</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000138</QualifierUI>
+          <QualifierName>
+            <String>chemical synthesis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CS</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000737</QualifierUI>
+          <QualifierName>
+            <String>chemistry</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000187</QualifierUI>
+          <QualifierName>
+            <String>drug effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>DE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000652</QualifierUI>
+          <QualifierName>
+            <String>urine</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>UR</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000528</QualifierUI>
+          <QualifierName>
+            <String>radiation effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>RE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000266</QualifierUI>
+          <QualifierName>
+            <String>history</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>HI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000032</QualifierUI>
+          <QualifierName>
+            <String>analysis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AN</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000145</QualifierUI>
+          <QualifierName>
+            <String>classification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000191</QualifierUI>
+          <QualifierName>
+            <String>economics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>EC</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000235</QualifierUI>
+          <QualifierName>
+            <String>genetics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>GE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000378</QualifierUI>
+          <QualifierName>
+            <String>metabolism</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ME</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000494</QualifierUI>
+          <QualifierName>
+            <String>pharmacology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000592</QualifierUI>
+          <QualifierName>
+            <String>standards</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ST</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000008</QualifierUI>
+          <QualifierName>
+            <String>administration &amp; dosage</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000037</QualifierUI>
+          <QualifierName>
+            <String>antagonists &amp; inhibitors</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000600</QualifierUI>
+          <QualifierName>
+            <String>supply &amp; distribution</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000506</QualifierUI>
+          <QualifierName>
+            <String>poisoning</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PO</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000009</QualifierUI>
+          <QualifierName>
+            <String>adverse effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000633</QualifierUI>
+          <QualifierName>
+            <String>toxicity</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TO</Abbreviation>
+      </AllowableQualifier>
+    </AllowableQualifiersList>
+    <HistoryNote>98(76)
+    </HistoryNote>
+    <PublicMeSHNote>98; see FIBRINOPEPTIDES A 1991-97; see FIBRINOGEN 1976-90
+    </PublicMeSHNote>
+    <PreviousIndexingList>
+      <PreviousIndexing>Fibrinogen (1968-1975)</PreviousIndexing>
+      <PreviousIndexing>Peptides (1968-1975)</PreviousIndexing>
+    </PreviousIndexingList>
+    <TreeNumberList>
+      <TreeNumber>D12.644.200</TreeNumber>
+      <TreeNumber>D12.776.124.125.515</TreeNumber>
+      <TreeNumber>D12.776.124.270.310</TreeNumber>
+      <TreeNumber>D12.776.811.300.310</TreeNumber>
+      <TreeNumber>D23.101.340</TreeNumber>
+      <TreeNumber>D23.119.500</TreeNumber>
+    </TreeNumberList>
+    <ConceptList>
+      <Concept PreferredConceptYN="Y">
+        <ConceptUI>M0008435</ConceptUI>
+        <ConceptName>
+          <String>Fibrinopeptide A</String>
+        </ConceptName>
+        <RegistryNumber>25422-31-5</RegistryNumber>
+        <ScopeNote>Two small peptide chains removed from the N-terminal segment of the alpha chains of fibrinogen by the action of thrombin during the blood coagulation process. Each peptide chain contains 18 amino acid residues. In vivo, fibrinopeptide A is
+          used as a marker to determine the rate of conversion of fibrinogen to fibrin by thrombin.
+        </ScopeNote>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="Y">
+            <TermUI>T016316</TermUI>
+            <String>Fibrinopeptide A</String>
+            <DateCreated>
+              <Year>1999</Year>
+              <Month>01</Month>
+              <Day>01</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1976)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T016315</TermUI>
+            <String>Fibrinopeptides A</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>10</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1998)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+    </ConceptList>
+  </DescriptorRecord>
+  <DescriptorRecord DescriptorClass="1">
+    <DescriptorUI>D001685</DescriptorUI>
+    <DescriptorName>
+      <String>Biological Factors</String>
+    </DescriptorName>
+    <DateCreated>
+      <Year>1999</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateCreated>
+    <DateRevised>
+      <Year>2015</Year>
+      <Month>11</Month>
+      <Day>23</Day>
+    </DateRevised>
+    <DateEstablished>
+      <Year>1989</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateEstablished>
+    <AllowableQualifiersList>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000302</QualifierUI>
+          <QualifierName>
+            <String>isolation &amp; purification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IP</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000276</QualifierUI>
+          <QualifierName>
+            <String>immunology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IM</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000493</QualifierUI>
+          <QualifierName>
+            <String>pharmacokinetics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PK</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000096</QualifierUI>
+          <QualifierName>
+            <String>biosynthesis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>BI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000502</QualifierUI>
+          <QualifierName>
+            <String>physiology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000627</QualifierUI>
+          <QualifierName>
+            <String>therapeutic use</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TU</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000557</QualifierUI>
+          <QualifierName>
+            <String>secretion</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000819</QualifierUI>
+          <QualifierName>
+            <String>agonists</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AG</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000097</QualifierUI>
+          <QualifierName>
+            <String>blood</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>BL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000134</QualifierUI>
+          <QualifierName>
+            <String>cerebrospinal fluid</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CF</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000138</QualifierUI>
+          <QualifierName>
+            <String>chemical synthesis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CS</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000172</QualifierUI>
+          <QualifierName>
+            <String>deficiency</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>DF</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000737</QualifierUI>
+          <QualifierName>
+            <String>chemistry</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000652</QualifierUI>
+          <QualifierName>
+            <String>urine</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>UR</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000528</QualifierUI>
+          <QualifierName>
+            <String>radiation effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>RE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000266</QualifierUI>
+          <QualifierName>
+            <String>history</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>HI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000032</QualifierUI>
+          <QualifierName>
+            <String>analysis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AN</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000145</QualifierUI>
+          <QualifierName>
+            <String>classification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000191</QualifierUI>
+          <QualifierName>
+            <String>economics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>EC</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000235</QualifierUI>
+          <QualifierName>
+            <String>genetics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>GE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000378</QualifierUI>
+          <QualifierName>
+            <String>metabolism</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ME</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000494</QualifierUI>
+          <QualifierName>
+            <String>pharmacology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000592</QualifierUI>
+          <QualifierName>
+            <String>standards</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ST</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000008</QualifierUI>
+          <QualifierName>
+            <String>administration &amp; dosage</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000037</QualifierUI>
+          <QualifierName>
+            <String>antagonists &amp; inhibitors</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000600</QualifierUI>
+          <QualifierName>
+            <String>supply &amp; distribution</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000506</QualifierUI>
+          <QualifierName>
+            <String>poisoning</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PO</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000009</QualifierUI>
+          <QualifierName>
+            <String>adverse effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000633</QualifierUI>
+          <QualifierName>
+            <String>toxicity</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TO</Abbreviation>
+      </AllowableQualifier>
+    </AllowableQualifiersList>
+    <Annotation>differentiate from BIOLOGICAL PRODUCTS
+    </Annotation>
+    <HistoryNote>1989; was Non-MeSH before 1989; BIOLOGICAL AGENTS was a heading 2012-2013, now BIOLOGICAL PRODUCTS
+    </HistoryNote>
+    <NLMClassificationNumber>QU 102</NLMClassificationNumber>
+    <PublicMeSHNote>1989; was Non-MeSH before 1989; BIOLOGICAL AGENTS was a heading 2012-2013, now BIOLOGICAL PRODUCTS
+    </PublicMeSHNote>
+    <SeeRelatedList>
+      <SeeRelatedDescriptor>
+        <DescriptorReferredTo>
+          <DescriptorUI>D001688</DescriptorUI>
+          <DescriptorName>
+            <String>Biological Products</String>
+          </DescriptorName>
+        </DescriptorReferredTo>
+      </SeeRelatedDescriptor>
+    </SeeRelatedList>
+    <TreeNumberList>
+      <TreeNumber>D23</TreeNumber>
+    </TreeNumberList>
+    <ConceptList>
+      <Concept PreferredConceptYN="Y">
+        <ConceptUI>M0002530</ConceptUI>
+        <ConceptName>
+          <String>Biological Factors</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ScopeNote>Endogenously-synthesized compounds that influence biological processes not otherwise classified under ENZYMES; HORMONES or HORMONE ANTAGONISTS.
+        </ScopeNote>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="Y">
+            <TermUI>T004892</TermUI>
+            <String>Biological Factors</String>
+            <DateCreated>
+              <Year>1999</Year>
+              <Month>01</Month>
+              <Day>01</Day>
+            </DateCreated>
+            <EntryVersion>BIOL FACTORS</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1974)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004890</TermUI>
+            <String>Factor, Biological</String>
+            <DateCreated>
+              <Year>1990</Year>
+              <Month>09</Month>
+              <Day>27</Day>
+            </DateCreated>
+            <EntryVersion>FACTOR BIOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1992)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004891</TermUI>
+            <String>Factors, Biological</String>
+            <DateCreated>
+              <Year>1989</Year>
+              <Month>08</Month>
+              <Day>31</Day>
+            </DateCreated>
+            <EntryVersion>FACTORS BIOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1990)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T845625</TermUI>
+            <String>Biologic Agents</String>
+            <DateCreated>
+              <Year>2013</Year>
+              <Month>06</Month>
+              <Day>13</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2014)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T845625</TermUI>
+            <String>Agents, Biologic</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004893</TermUI>
+            <String>Biologic Factors</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004893</TermUI>
+            <String>Factors, Biologic</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004894</TermUI>
+            <String>Factor, Biologic</String>
+            <DateCreated>
+              <Year>1990</Year>
+              <Month>09</Month>
+              <Day>27</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1992)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004894</TermUI>
+            <String>Biologic Factor</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T790133</TermUI>
+            <String>Biological Agents</String>
+            <DateCreated>
+              <Year>2011</Year>
+              <Month>05</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2012)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T790133</TermUI>
+            <String>Agents, Biological</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T004889</TermUI>
+            <String>Biological Factor</String>
+            <DateCreated>
+              <Year>1990</Year>
+              <Month>09</Month>
+              <Day>27</Day>
+            </DateCreated>
+            <EntryVersion>BIOL FACTOR</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1992)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+    </ConceptList>
+  </DescriptorRecord>
+  <DescriptorRecord DescriptorClass="1">
+    <DescriptorUI>D015415</DescriptorUI>
+    <DescriptorName>
+      <String>Biomarkers</String>
+    </DescriptorName>
+    <DateCreated>
+      <Year>1988</Year>
+      <Month>06</Month>
+      <Day>07</Day>
+    </DateCreated>
+    <DateRevised>
+      <Year>2015</Year>
+      <Month>07</Month>
+      <Day>01</Day>
+    </DateRevised>
+    <DateEstablished>
+      <Year>1989</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateEstablished>
+    <AllowableQualifiersList>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000097</QualifierUI>
+          <QualifierName>
+            <String>blood</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>BL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000032</QualifierUI>
+          <QualifierName>
+            <String>analysis</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AN</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000134</QualifierUI>
+          <QualifierName>
+            <String>cerebrospinal fluid</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CF</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000737</QualifierUI>
+          <QualifierName>
+            <String>chemistry</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000378</QualifierUI>
+          <QualifierName>
+            <String>metabolism</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ME</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000652</QualifierUI>
+          <QualifierName>
+            <String>urine</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>UR</Abbreviation>
+      </AllowableQualifier>
+    </AllowableQualifiersList>
+    <Annotation>IM general only; coordinate NIM with specific substance (IM); note that many specific markers are available
+    </Annotation>
+    <HistoryNote>2016(1989)
+    </HistoryNote>
+    <PublicMeSHNote>2016; See BIOLOGICAL MARKERS 1989-2015
+    </PublicMeSHNote>
+    <SeeRelatedList>
+      <SeeRelatedDescriptor>
+        <DescriptorReferredTo>
+          <DescriptorUI>D015335</DescriptorUI>
+          <DescriptorName>
+            <String>Molecular Probes</String>
+          </DescriptorName>
+        </DescriptorReferredTo>
+      </SeeRelatedDescriptor>
+      <SeeRelatedDescriptor>
+        <DescriptorReferredTo>
+          <DescriptorUI>D058068</DescriptorUI>
+          <DescriptorName>
+            <String>Endophenotypes</String>
+          </DescriptorName>
+        </DescriptorReferredTo>
+      </SeeRelatedDescriptor>
+    </SeeRelatedList>
+    <TreeNumberList>
+      <TreeNumber>D23.101</TreeNumber>
+    </TreeNumberList>
+    <ConceptList>
+      <Concept PreferredConceptYN="Y">
+        <ConceptUI>M0023752</ConceptUI>
+        <ConceptName>
+          <String>Biomarkers</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ScopeNote>Measurable and quantifiable biological parameters (e.g., specific enzyme concentration, specific hormone concentration, specific gene phenotype distribution in a population, presence of biological substances) which serve as indices for
+          health- and physiology-related assessments, such as disease risk, psychiatric disorders, ENVIRONMENTAL EXPOSURE and its effects, disease diagnosis; METABOLIC PROCESSES; SUBSTANCE ABUSE; PREGNANCY; cell line development; EPIDEMIOLOGIC STUDIES; etc.
+        </ScopeNote>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023757</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023758</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023755</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023753</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023759</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023760</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023756</Concept2UI>
+          </ConceptRelation>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023754</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="Y">
+            <TermUI>T686148</TermUI>
+            <String>Biomarkers</String>
+            <DateCreated>
+              <Year>2006</Year>
+              <Month>11</Month>
+              <Day>16</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2008)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045478</TermUI>
+            <String>Markers, Biological</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <EntryVersion>MARKERS BIOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045480</TermUI>
+            <String>Biologic Markers</String>
+            <DateCreated>
+              <Year>1989</Year>
+              <Month>08</Month>
+              <Day>31</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1990)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045480</TermUI>
+            <String>Markers, Biologic</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045481</TermUI>
+            <String>Biologic Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>BIOL MARKER</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045481</TermUI>
+            <String>Marker, Biologic</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045477</TermUI>
+            <String>Marker, Biological</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>MARKER BIOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045477</TermUI>
+            <String>Biological Marker</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045479</TermUI>
+            <String>Biological Markers</String>
+            <DateCreated>
+              <Year>1999</Year>
+              <Month>01</Month>
+              <Day>01</Day>
+            </DateCreated>
+            <EntryVersion>BIOL MARKERS</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1989)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023757</ConceptUI>
+        <ConceptName>
+          <String>Markers, Laboratory</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023757</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045503</TermUI>
+            <String>Markers, Laboratory</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045502</TermUI>
+            <String>Laboratory Markers</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045500</TermUI>
+            <String>Laboratory Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045501</TermUI>
+            <String>Marker, Laboratory</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023758</ConceptUI>
+        <ConceptName>
+          <String>Serum Markers</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023758</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045507</TermUI>
+            <String>Serum Markers</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045506</TermUI>
+            <String>Markers, Serum</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045504</TermUI>
+            <String>Marker, Serum</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045505</TermUI>
+            <String>Serum Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023755</ConceptUI>
+        <ConceptName>
+          <String>Surrogate Endpoints</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023755</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045491</TermUI>
+            <String>Surrogate Endpoints</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045491</TermUI>
+            <String>Endpoints, Surrogate</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045493</TermUI>
+            <String>Surrogate End Points</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045493</TermUI>
+            <String>End Points, Surrogate</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045492</TermUI>
+            <String>Surrogate End Point</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045492</TermUI>
+            <String>End Point, Surrogate</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045490</TermUI>
+            <String>Surrogate Endpoint</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045490</TermUI>
+            <String>Endpoint, Surrogate</String>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023753</ConceptUI>
+        <ConceptName>
+          <String>Markers, Clinical</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023753</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045485</TermUI>
+            <String>Markers, Clinical</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <EntryVersion>MARKERS CLIN</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1997)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045484</TermUI>
+            <String>Clinical Markers</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <EntryVersion>CLIN MARKERS</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045482</TermUI>
+            <String>Clinical Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>CLIN MARKER</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045483</TermUI>
+            <String>Marker, Clinical</String>
+            <DateCreated>
+              <Year>1992</Year>
+              <Month>08</Month>
+              <Day>17</Day>
+            </DateCreated>
+            <EntryVersion>MARKER CLIN</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1994)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023759</ConceptUI>
+        <ConceptName>
+          <String>Viral Markers</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023759</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045509</TermUI>
+            <String>Viral Markers</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045510</TermUI>
+            <String>Markers, Viral</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1997)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045508</TermUI>
+            <String>Viral Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045508</TermUI>
+            <String>Marker, Viral</String>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023760</ConceptUI>
+        <ConceptName>
+          <String>Biochemical Marker</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023760</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045511</TermUI>
+            <String>Biochemical Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>BIOCHEM MARKER</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045513</TermUI>
+            <String>Biochemical Markers</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <EntryVersion>BIOCHEM MARKERS</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045514</TermUI>
+            <String>Markers, Biochemical</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <EntryVersion>MARKERS BIOCHEM</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1997)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045512</TermUI>
+            <String>Marker, Biochemical</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>MARKER BIOCHEM</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023756</ConceptUI>
+        <ConceptName>
+          <String>Markers, Immunologic</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023756</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045499</TermUI>
+            <String>Markers, Immunologic</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <EntryVersion>MARKERS IMMUNOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1997)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045495</TermUI>
+            <String>Immune Markers</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045495</TermUI>
+            <String>Markers, Immune</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045497</TermUI>
+            <String>Marker, Immunologic</String>
+            <DateCreated>
+              <Year>1996</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <EntryVersion>MARKER IMMUNOL</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1997)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045498</TermUI>
+            <String>Immunologic Markers</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>15</Day>
+            </DateCreated>
+            <EntryVersion>IMMUNOL MARKERS</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045494</TermUI>
+            <String>Immune Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045494</TermUI>
+            <String>Marker, Immune</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045496</TermUI>
+            <String>Immunologic Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <EntryVersion>IMMUNOL MARKER</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0023754</ConceptUI>
+        <ConceptName>
+          <String>Surrogate Markers</String>
+        </ConceptName>
+        <RegistryNumber>0</RegistryNumber>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="NRW">
+            <Concept1UI>M0023752</Concept1UI>
+            <Concept2UI>M0023754</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045489</TermUI>
+            <String>Surrogate Markers</String>
+            <DateCreated>
+              <Year>1990</Year>
+              <Month>11</Month>
+              <Day>28</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1992)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045488</TermUI>
+            <String>Markers, Surrogate</String>
+            <DateCreated>
+              <Year>1990</Year>
+              <Month>11</Month>
+              <Day>28</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1992)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045486</TermUI>
+            <String>Marker, Surrogate</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045487</TermUI>
+            <String>Surrogate Marker</String>
+            <DateCreated>
+              <Year>1991</Year>
+              <Month>11</Month>
+              <Day>26</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1993)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+        </TermList>
+      </Concept>
+    </ConceptList>
+  </DescriptorRecord>
+  <DescriptorRecord DescriptorClass="1">
+    <DescriptorUI>D015412</DescriptorUI>
+    <DescriptorName>
+      <String>Mastectomy, Segmental</String>
+    </DescriptorName>
+    <DateCreated>
+      <Year>1988</Year>
+      <Month>06</Month>
+      <Day>07</Day>
+    </DateCreated>
+    <DateRevised>
+      <Year>2016</Year>
+      <Month>05</Month>
+      <Day>31</Day>
+    </DateRevised>
+    <DateEstablished>
+      <Year>1989</Year>
+      <Month>01</Month>
+      <Day>01</Day>
+    </DateEstablished>
+    <AllowableQualifiersList>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000009</QualifierUI>
+          <QualifierName>
+            <String>adverse effects</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>AE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000145</QualifierUI>
+          <QualifierName>
+            <String>classification</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>CL</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000191</QualifierUI>
+          <QualifierName>
+            <String>economics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>EC</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000193</QualifierUI>
+          <QualifierName>
+            <String>education</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ED</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000266</QualifierUI>
+          <QualifierName>
+            <String>history</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>HI</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000295</QualifierUI>
+          <QualifierName>
+            <String>instrumentation</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>IS</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000331</QualifierUI>
+          <QualifierName>
+            <String>legislation &amp; jurisprudence</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>LJ</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000379</QualifierUI>
+          <QualifierName>
+            <String>methods</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>MT</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000401</QualifierUI>
+          <QualifierName>
+            <String>mortality</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>MO</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000451</QualifierUI>
+          <QualifierName>
+            <String>nursing</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>NU</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000523</QualifierUI>
+          <QualifierName>
+            <String>psychology</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>PX</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000534</QualifierUI>
+          <QualifierName>
+            <String>rehabilitation</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>RH</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000592</QualifierUI>
+          <QualifierName>
+            <String>standards</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ST</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000639</QualifierUI>
+          <QualifierName>
+            <String>trends</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>TD</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000656</QualifierUI>
+          <QualifierName>
+            <String>utilization</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>UT</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000662</QualifierUI>
+          <QualifierName>
+            <String>veterinary</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>VE</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000706</QualifierUI>
+          <QualifierName>
+            <String>statistics &amp; numerical data</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>SN</Abbreviation>
+      </AllowableQualifier>
+      <AllowableQualifier>
+        <QualifierReferredTo>
+          <QualifierUI>Q000941</QualifierUI>
+          <QualifierName>
+            <String>ethics</String>
+          </QualifierName>
+        </QualifierReferredTo>
+        <Abbreviation>ES</Abbreviation>
+      </AllowableQualifier>
+    </AllowableQualifiersList>
+    <HistoryNote>89
+    </HistoryNote>
+    <PublicMeSHNote>89
+    </PublicMeSHNote>
+    <PreviousIndexingList>
+      <PreviousIndexing>Breast Neoplasms/surgery (1966-1988)</PreviousIndexing>
+      <PreviousIndexing>Breast/surgery (1966-1988)</PreviousIndexing>
+      <PreviousIndexing>Mastectomy (1966-1988)</PreviousIndexing>
+    </PreviousIndexingList>
+    <TreeNumberList>
+      <TreeNumber>E04.466.701</TreeNumber>
+    </TreeNumberList>
+    <ConceptList>
+      <Concept PreferredConceptYN="Y">
+        <ConceptUI>M0023749</ConceptUI>
+        <ConceptName>
+          <String>Mastectomy, Segmental</String>
+        </ConceptName>
+        <ScopeNote>Removal of only enough breast tissue to ensure that the margins of the resected surgical specimen are free of tumor.
+        </ScopeNote>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023749</Concept1UI>
+            <Concept2UI>M0393768</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="Y">
+            <TermUI>T045469</TermUI>
+            <String>Mastectomy, Segmental</String>
+            <DateCreated>
+              <Year>1999</Year>
+              <Month>01</Month>
+              <Day>01</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1989)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Mastectomies, Segmental</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Segmental Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045469</TermUI>
+            <String>Segmental Mastectomy</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Local Excision Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Local Excision Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Mastectomies, Local Excision</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045467</TermUI>
+            <String>Mastectomy, Local Excision</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045471</TermUI>
+            <String>Segmentectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045471</TermUI>
+            <String>Segmentectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Partial Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Mastectomies, Partial</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Mastectomy, Partial</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045470</TermUI>
+            <String>Partial Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Limited Resection Mastectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Limited Resection Mastectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Mastectomies, Limited Resection</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045466</TermUI>
+            <String>Mastectomy, Limited Resection</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045468</TermUI>
+            <String>Lumpectomy</String>
+            <DateCreated>
+              <Year>1988</Year>
+              <Month>06</Month>
+              <Day>07</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>UNK (19XX)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045468</TermUI>
+            <String>Lumpectomies</String>
+          </Term>
+        </TermList>
+      </Concept>
+      <Concept PreferredConceptYN="N">
+        <ConceptUI>M0393768</ConceptUI>
+        <ConceptName>
+          <String>Breast-Conserving Surgery</String>
+        </ConceptName>
+        <ConceptRelationList>
+          <ConceptRelation RelationName="REL">
+            <Concept1UI>M0023749</Concept1UI>
+            <Concept2UI>M0393768</Concept2UI>
+          </ConceptRelation>
+        </ConceptRelationList>
+        <TermList>
+          <Term ConceptPreferredTermYN="Y" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045473</TermUI>
+            <String>Breast-Conserving Surgery</String>
+            <DateCreated>
+              <Year>1998</Year>
+              <Month>02</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <EntryVersion>BREAST CONSERVING SURG</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1999)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045473</TermUI>
+            <String>Breast Conserving Surgery</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Breast Quadrantectomy</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>04</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Breast Quadrantectomies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Quadrantectomies, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898217</TermUI>
+            <String>Quadrantectomy, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgery, Breast-Conserving</String>
+            <DateCreated>
+              <Year>1998</Year>
+              <Month>03</Month>
+              <Day>30</Day>
+            </DateCreated>
+            <EntryVersion>SURG BREAST CONSERVING</EntryVersion>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (1999)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Breast-Conserving Surgeries</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgeries, Breast-Conserving</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T045472</TermUI>
+            <String>Surgery, Breast Conserving</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Breast Conservation Therapy</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>03</Month>
+              <Day>25</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Breast Conservation Therapies</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Conservation Therapies, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000897662</TermUI>
+            <String>Conservation Therapy, Breast</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="N" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast-Sparing Surgery</String>
+            <DateCreated>
+              <Year>2016</Year>
+              <Month>04</Month>
+              <Day>04</Day>
+            </DateCreated>
+            <ThesaurusIDlist>
+              <ThesaurusID>NLM (2017)</ThesaurusID>
+            </ThesaurusIDlist>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast Sparing Surgery</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Breast-Sparing Surgeries</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Surgeries, Breast-Sparing</String>
+          </Term>
+          <Term ConceptPreferredTermYN="N" IsPermutedTermYN="Y" LexicalTag="NON" RecordPreferredTermYN="N">
+            <TermUI>T000898218</TermUI>
+            <String>Surgery, Breast-Sparing</String>
+          </Term>
+        </TermList>
+      </Concept>
+    </ConceptList>
+  </DescriptorRecord>
+</DescriptorRecordSet>
