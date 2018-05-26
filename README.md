@@ -1,7 +1,7 @@
 # mesh-parse
 Tool for parsing Medical Subject Heading (MeSH) descriptors
 
-#Usage
+### Usage
 
     npm install mesh-parse
 
