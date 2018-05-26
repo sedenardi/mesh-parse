@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Tool for parsing Medical Subject Heading (MeSH) descriptors",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedenardi/mesh-parse.git"
+  },
+  "author": "Sanders DeNardi <sedenardi@gmail.com> (http://www.sandersdenardi.com/)",
+  "homepage": "https://github.com/sedenardi/mesh-parse",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
