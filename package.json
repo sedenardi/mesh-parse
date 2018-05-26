@@ -1,5 +1,5 @@
 {
-  "name": "mesh-sql",
+  "name": "mesh-parse",
   "version": "1.0.0",
   "description": "Tool for parsing Medical Subject Heading (MeSH) descriptors",
   "main": "index.js",
